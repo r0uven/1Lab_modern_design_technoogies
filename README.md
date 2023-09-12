@@ -10,7 +10,7 @@
 1. Здесь упорядоченный
 
 
-1. А здесь вложенный список
+2. А здесь вложенный список
    - First nested list item
      - Second nested list item
 
@@ -18,4 +18,4 @@
 
 А вот это [ссылка](https://github.com/r0uven) на мой гит
 
-![котик](https://koshka.top/9283-kota-na-belom-fone.html)
+![котик](https://proprikol.ru/wp-content/uploads/2020/08/krasivye-kartinki-kotov-37.jpg)
